@@ -6,6 +6,6 @@
         <label>myobj Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>myobjs</pluralLabel>
+    <pluralLabel>myobjss</pluralLabel>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
